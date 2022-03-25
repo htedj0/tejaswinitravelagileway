@@ -1,0 +1,6 @@
+com\travelagileway\pageobject\SelectFlight.class
+com\travelagileway\pageobject\LoginObject.class
+com\travelagilewa\test\BaseClass.class
+com\travelagilewa\test\Testcases.class
+com\travelagileway\pageobject\userCreditInfo.class
+com\travelagileway\pageobject\userPersonalInfo.class

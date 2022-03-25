@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20685" started-at="2022-03-21T14:34:09 EDT" finished-at="2022-03-21T14:34:29 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20685" started-at="2022-03-21T14:34:09 EDT" finished-at="2022-03-21T14:34:29 EDT">
+      <class name="com.travelagilewa.test.Testcases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.travelagilewa.test.Testcases@4148db48]" name="setup" is-config="true" duration-ms="2336" started-at="2022-03-21T14:34:09 EDT" finished-at="2022-03-21T14:34:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.travelagilewa.test.Testcases@4148db48]" name="loginTest" duration-ms="6116" started-at="2022-03-21T14:34:11 EDT" finished-at="2022-03-21T14:34:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="userflight()[pri:1, instance:com.travelagilewa.test.Testcases@4148db48]" name="userflight" duration-ms="3866" started-at="2022-03-21T14:34:17 EDT" finished-at="2022-03-21T14:34:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userflight -->
+        <test-method status="PASS" signature="userinfo()[pri:2, instance:com.travelagilewa.test.Testcases@4148db48]" name="userinfo" duration-ms="3752" started-at="2022-03-21T14:34:21 EDT" finished-at="2022-03-21T14:34:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userinfo -->
+        <test-method status="PASS" signature="pay()[pri:3, instance:com.travelagilewa.test.Testcases@4148db48]" name="pay" duration-ms="3499" started-at="2022-03-21T14:34:25 EDT" finished-at="2022-03-21T14:34:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pay -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.travelagilewa.test.Testcases@4148db48]" name="cleanup" is-config="true" duration-ms="1075" started-at="2022-03-21T14:34:28 EDT" finished-at="2022-03-21T14:34:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.travelagilewa.test.Testcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
